@@ -2,6 +2,8 @@
 
 ## Project Overview
 
+Get Live [Report](https://app.powerbi.com/groups/me/reports/9f8d7597-5a22-44ed-9f6f-01b6272aabe5/6e1320884d9fc99564e9?experience=power-bi&clientSideAuth=0)
+
 This project presents a comprehensive Power BI dashboard for analyzing Blinkit's sales performance, customer satisfaction, and inventory distribution. The dashboard provides key insights and opportunities for optimization using various KPIs and visualizations.
 
 ![Sales View](https://github.com/Vaithegi-coder/Blinkit-Data-Analysis/blob/main/Screenshot%20(56).png)
